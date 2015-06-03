@@ -12,6 +12,7 @@
 		63E4D7951B1EF10A009912B1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63E4D7941B1EF10A009912B1 /* Images.xcassets */; };
 		63E4D7981B1EF10A009912B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63E4D7961B1EF10A009912B1 /* Main.storyboard */; };
 		63E4D7A41B1EF10A009912B1 /* NSPresentationOptionsExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E4D7A31B1EF10A009912B1 /* NSPresentationOptionsExampleTests.swift */; };
+		63E4D7B21B1F06E1009912B1 /* image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 63E4D7B11B1F06E1009912B1 /* image.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		63E4D79D1B1EF10A009912B1 /* NSPresentationOptionsExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NSPresentationOptionsExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		63E4D7A21B1EF10A009912B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63E4D7A31B1EF10A009912B1 /* NSPresentationOptionsExampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSPresentationOptionsExampleTests.swift; sourceTree = "<group>"; };
+		63E4D7B11B1F06E1009912B1 /* image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				63E4D7901B1EF10A009912B1 /* AppDelegate.swift */,
 				63E4D7921B1EF10A009912B1 /* ViewController.swift */,
 				63E4D7941B1EF10A009912B1 /* Images.xcassets */,
+				63E4D7B11B1F06E1009912B1 /* image.jpg */,
 				63E4D7961B1EF10A009912B1 /* Main.storyboard */,
 				63E4D78E1B1EF10A009912B1 /* Supporting Files */,
 			);
@@ -191,6 +194,7 @@
 			files = (
 				63E4D7951B1EF10A009912B1 /* Images.xcassets in Resources */,
 				63E4D7981B1EF10A009912B1 /* Main.storyboard in Resources */,
+				63E4D7B21B1F06E1009912B1 /* image.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
